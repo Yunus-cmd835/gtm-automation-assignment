@@ -5,7 +5,8 @@ Intelligent lead generation and routing system built with n8n that processes 100
 
 ## Files
 - `n8n_workflow.json` - Complete n8n workflow
-- `sample_data.csv` - Sample output data
+- `sample_data.csv` - Sample output data(All_Leads_Complete_Analysis)
+- `sample_data1.csv`- Sample output data(Channel_Dedicated_Leads)
 - `assignment_summary.md` - 500-word summary
 
 ## Setup Instructions
